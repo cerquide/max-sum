@@ -1,0 +1,2517 @@
+<AuctionData>
+
+
+ <Good id="1" name="A"/>
+ <Good id="2" name="B"/>
+ <Good id="3" name="C"/>
+ <Good id="4" name="D"/>
+ <Good id="5" name="E"/>
+ <Good id="6" name="F"/>
+ <Good id="7" name="G"/>
+ <Good id="8" name="H"/>
+ <Good id="9" name="I"/>
+ <Good id="10" name="J"/>
+ <Good id="11" name="K"/>
+ <Good id="12" name="L"/>
+ <Good id="13" name="M"/>
+ <Good id="14" name="N"/>
+ <Good id="15" name="O"/>
+ <Good id="16" name="P"/>
+ <Good id="17" name="Q"/>
+ <Good id="18" name="R"/>
+ <Good id="19" name="S"/>
+ <Good id="20" name="T"/>
+ <Good id="21" name="U"/>
+ <Good id="22" name="V"/>
+ <Good id="23" name="W"/>
+ <Good id="24" name="X"/>
+ <Good id="25" name="Y"/>
+ <Good id="26" name="Z"/>
+ <Good id="27" name="AA"/>
+ <Good id="28" name="AB"/>
+ <Good id="29" name="AC"/>
+ <Good id="30" name="AD"/>
+ <Good id="31" name="AE"/>
+ <Good id="32" name="AF"/>
+ <Good id="33" name="AG"/>
+ <Good id="34" name="AH"/>
+ <Good id="35" name="AI"/>
+ <Good id="36" name="AJ"/>
+ <Good id="37" name="AK"/>
+ <Good id="38" name="AL"/>
+ <Good id="39" name="AM"/>
+ <Good id="40" name="AN"/>
+ <Good id="41" name="AO"/>
+ <Good id="42" name="AP"/>
+ <Good id="43" name="AQ"/>
+ <Good id="44" name="AR"/>
+ <Good id="45" name="AS"/>
+ <Good id="46" name="AT"/>
+ <Good id="47" name="AU"/>
+ <Good id="48" name="AV"/>
+ <Good id="49" name="AW"/>
+ <Good id="50" name="AX"/>
+
+
+
+
+
+
+ <Transformation id="51" name="T1">
+   <OutputGood idRef="1" quantity="1"/>
+ </Transformation>
+
+ <Transformation id="52" name="T2">
+   <InputGood idRef="29" quantity="1"/>
+ </Transformation>
+
+ <Transformation id="53" name="T3">
+   <InputGood idRef="29" quantity="1"/>
+ </Transformation>
+
+ <Transformation id="54" name="T4">
+   <InputGood idRef="10" quantity="1"/>
+   <OutputGood idRef="26" quantity="1"/>
+ </Transformation>
+
+ <Transformation id="55" name="T5">
+   <InputGood idRef="14" quantity="1"/>
+ </Transformation>
+
+ <Transformation id="56" name="T6">
+   <InputGood idRef="25" quantity="1"/>
+   <OutputGood idRef="27" quantity="1"/>
+ </Transformation>
+
+ <Transformation id="57" name="T7">
+   <InputGood idRef="20" quantity="1"/>
+ </Transformation>
+
+ <Transformation id="58" name="T8">
+   <InputGood idRef="41" quantity="1"/>
+   <InputGood idRef="44" quantity="1"/>
+   <OutputGood idRef="7" quantity="1"/>
+ </Transformation>
+
+ <Transformation id="59" name="T9">
+   <InputGood idRef="34" quantity="1"/>
+ </Transformation>
+
+ <Transformation id="60" name="T10">
+   <InputGood idRef="28" quantity="1"/>
+ </Transformation>
+
+ <Transformation id="61" name="T11">
+   <OutputGood idRef="46" quantity="1"/>
+ </Transformation>
+
+ <Transformation id="62" name="T12">
+   <InputGood idRef="16" quantity="1"/>
+ </Transformation>
+
+ <Transformation id="63" name="T13">
+   <OutputGood idRef="30" quantity="1"/>
+ </Transformation>
+
+ <Transformation id="64" name="T14">
+   <OutputGood idRef="15" quantity="1"/>
+ </Transformation>
+
+ <Transformation id="65" name="T15">
+   <InputGood idRef="10" quantity="1"/>
+   <OutputGood idRef="26" quantity="1"/>
+ </Transformation>
+
+ <Transformation id="66" name="T16">
+   <InputGood idRef="39" quantity="1"/>
+ </Transformation>
+
+ <Transformation id="67" name="T17">
+   <OutputGood idRef="11" quantity="1"/>
+ </Transformation>
+
+ <Transformation id="68" name="T18">
+   <InputGood idRef="19" quantity="1"/>
+   <OutputGood idRef="29" quantity="1"/>
+ </Transformation>
+
+ <Transformation id="69" name="T19">
+   <InputGood idRef="21" quantity="1"/>
+ </Transformation>
+
+ <Transformation id="70" name="T20">
+   <InputGood idRef="14" quantity="1"/>
+   <InputGood idRef="32" quantity="1"/>
+   <OutputGood idRef="11" quantity="1"/>
+ </Transformation>
+
+ <Transformation id="71" name="T21">
+   <InputGood idRef="28" quantity="1"/>
+ </Transformation>
+
+ <Transformation id="72" name="T22">
+   <OutputGood idRef="44" quantity="1"/>
+ </Transformation>
+
+ <Transformation id="73" name="T23">
+   <OutputGood idRef="34" quantity="1"/>
+ </Transformation>
+
+ <Transformation id="74" name="T24">
+   <InputGood idRef="6" quantity="1"/>
+   <InputGood idRef="46" quantity="1"/>
+   <OutputGood idRef="50" quantity="1"/>
+ </Transformation>
+
+ <Transformation id="75" name="T25">
+   <InputGood idRef="24" quantity="1"/>
+   <OutputGood idRef="33" quantity="1"/>
+ </Transformation>
+
+ <Transformation id="76" name="T26">
+   <InputGood idRef="5" quantity="1"/>
+ </Transformation>
+
+ <Transformation id="77" name="T27">
+   <InputGood idRef="24" quantity="1"/>
+   <InputGood idRef="49" quantity="1"/>
+   <OutputGood idRef="37" quantity="1"/>
+ </Transformation>
+
+ <Transformation id="78" name="T28">
+   <InputGood idRef="39" quantity="1"/>
+ </Transformation>
+
+ <Transformation id="79" name="T29">
+   <InputGood idRef="19" quantity="1"/>
+ </Transformation>
+
+ <Transformation id="80" name="T30">
+   <InputGood idRef="29" quantity="1"/>
+ </Transformation>
+
+ <Transformation id="81" name="T31">
+   <InputGood idRef="33" quantity="1"/>
+   <OutputGood idRef="17" quantity="1"/>
+ </Transformation>
+
+ <Transformation id="82" name="T32">
+   <InputGood idRef="37" quantity="1"/>
+ </Transformation>
+
+ <Transformation id="83" name="T33">
+   <InputGood idRef="47" quantity="1"/>
+ </Transformation>
+
+ <Transformation id="84" name="T34">
+   <InputGood idRef="44" quantity="1"/>
+ </Transformation>
+
+ <Transformation id="85" name="T35">
+   <InputGood idRef="7" quantity="1"/>
+ </Transformation>
+
+ <Transformation id="86" name="T36">
+   <InputGood idRef="34" quantity="1"/>
+ </Transformation>
+
+ <Transformation id="87" name="T37">
+   <InputGood idRef="25" quantity="1"/>
+ </Transformation>
+
+ <Transformation id="88" name="T38">
+   <InputGood idRef="9" quantity="1"/>
+   <OutputGood idRef="26" quantity="1"/>
+ </Transformation>
+
+ <Transformation id="89" name="T39">
+   <InputGood idRef="11" quantity="1"/>
+ </Transformation>
+
+ <Transformation id="90" name="T40">
+   <InputGood idRef="22" quantity="1"/>
+   <OutputGood idRef="27" quantity="1"/>
+ </Transformation>
+
+ <Transformation id="91" name="T41">
+   <InputGood idRef="38" quantity="1"/>
+ </Transformation>
+
+ <Transformation id="92" name="T42">
+   <InputGood idRef="3" quantity="1"/>
+ </Transformation>
+
+ <Transformation id="93" name="T43">
+   <InputGood idRef="42" quantity="1"/>
+ </Transformation>
+
+ <Transformation id="94" name="T44">
+   <OutputGood idRef="29" quantity="1"/>
+ </Transformation>
+
+ <Transformation id="95" name="T45">
+   <InputGood idRef="1" quantity="1"/>
+   <InputGood idRef="32" quantity="1"/>
+   <OutputGood idRef="26" quantity="1"/>
+ </Transformation>
+
+ <Transformation id="96" name="T46">
+   <InputGood idRef="15" quantity="1"/>
+ </Transformation>
+
+ <Transformation id="97" name="T47">
+   <InputGood idRef="1" quantity="1"/>
+   <OutputGood idRef="27" quantity="1"/>
+ </Transformation>
+
+ <Transformation id="98" name="T48">
+   <InputGood idRef="23" quantity="1"/>
+   <OutputGood idRef="20" quantity="1"/>
+ </Transformation>
+
+ <Transformation id="99" name="T49">
+   <InputGood idRef="19" quantity="1"/>
+   <OutputGood idRef="26" quantity="1"/>
+ </Transformation>
+
+ <Transformation id="100" name="T50">
+   <InputGood idRef="11" quantity="1"/>
+ </Transformation>
+
+ <Transformation id="101" name="T51">
+   <InputGood idRef="1" quantity="1"/>
+   <InputGood idRef="50" quantity="1"/>
+   <OutputGood idRef="11" quantity="1"/>
+ </Transformation>
+
+ <Transformation id="102" name="T52">
+   <InputGood idRef="37" quantity="1"/>
+ </Transformation>
+
+ <Transformation id="103" name="T53">
+   <InputGood idRef="40" quantity="1"/>
+   <OutputGood idRef="39" quantity="1"/>
+ </Transformation>
+
+ <Transformation id="104" name="T54">
+   <InputGood idRef="12" quantity="1"/>
+   <OutputGood idRef="28" quantity="1"/>
+ </Transformation>
+
+ <Transformation id="105" name="T55">
+   <InputGood idRef="12" quantity="1"/>
+   <OutputGood idRef="4" quantity="1"/>
+ </Transformation>
+
+ <Transformation id="106" name="T56">
+   <OutputGood idRef="14" quantity="1"/>
+ </Transformation>
+
+ <Transformation id="107" name="T57">
+   <OutputGood idRef="38" quantity="1"/>
+ </Transformation>
+
+ <Transformation id="108" name="T58">
+   <InputGood idRef="39" quantity="1"/>
+ </Transformation>
+
+ <Transformation id="109" name="T59">
+   <InputGood idRef="39" quantity="1"/>
+ </Transformation>
+
+ <Transformation id="110" name="T60">
+   <InputGood idRef="36" quantity="1"/>
+   <InputGood idRef="41" quantity="1"/>
+   <OutputGood idRef="48" quantity="1"/>
+ </Transformation>
+
+ <Transformation id="111" name="T61">
+   <InputGood idRef="14" quantity="1"/>
+   <InputGood idRef="32" quantity="1"/>
+   <OutputGood idRef="11" quantity="1"/>
+ </Transformation>
+
+ <Transformation id="112" name="T62">
+   <InputGood idRef="19" quantity="1"/>
+   <OutputGood idRef="42" quantity="1"/>
+ </Transformation>
+
+ <Transformation id="113" name="T63">
+   <OutputGood idRef="1" quantity="1"/>
+ </Transformation>
+
+ <Transformation id="114" name="T64">
+   <InputGood idRef="28" quantity="1"/>
+ </Transformation>
+
+ <Transformation id="115" name="T65">
+   <InputGood idRef="28" quantity="1"/>
+ </Transformation>
+
+ <Transformation id="116" name="T66">
+   <OutputGood idRef="1" quantity="1"/>
+ </Transformation>
+
+ <Transformation id="117" name="T67">
+   <InputGood idRef="41" quantity="1"/>
+ </Transformation>
+
+ <Transformation id="118" name="T68">
+   <OutputGood idRef="22" quantity="1"/>
+ </Transformation>
+
+ <Transformation id="119" name="T69">
+   <InputGood idRef="40" quantity="1"/>
+   <OutputGood idRef="39" quantity="1"/>
+ </Transformation>
+
+ <Transformation id="120" name="T70">
+   <InputGood idRef="28" quantity="1"/>
+ </Transformation>
+
+ <Transformation id="121" name="T71">
+   <InputGood idRef="20" quantity="1"/>
+ </Transformation>
+
+ <Transformation id="122" name="T72">
+   <InputGood idRef="4" quantity="1"/>
+   <OutputGood idRef="50" quantity="1"/>
+ </Transformation>
+
+ <Transformation id="123" name="T73">
+   <InputGood idRef="5" quantity="1"/>
+   <OutputGood idRef="16" quantity="1"/>
+ </Transformation>
+
+ <Transformation id="124" name="T74">
+   <InputGood idRef="13" quantity="1"/>
+ </Transformation>
+
+ <Transformation id="125" name="T75">
+   <InputGood idRef="6" quantity="1"/>
+   <InputGood idRef="33" quantity="1"/>
+   <OutputGood idRef="14" quantity="1"/>
+ </Transformation>
+
+ <Transformation id="126" name="T76">
+   <InputGood idRef="33" quantity="1"/>
+   <InputGood idRef="48" quantity="1"/>
+   <OutputGood idRef="50" quantity="1"/>
+ </Transformation>
+
+ <Transformation id="127" name="T77">
+   <InputGood idRef="1" quantity="1"/>
+   <InputGood idRef="50" quantity="1"/>
+   <OutputGood idRef="11" quantity="1"/>
+ </Transformation>
+
+ <Transformation id="128" name="T78">
+   <InputGood idRef="41" quantity="1"/>
+   <InputGood idRef="44" quantity="1"/>
+   <OutputGood idRef="7" quantity="1"/>
+ </Transformation>
+
+ <Transformation id="129" name="T79">
+   <InputGood idRef="28" quantity="1"/>
+ </Transformation>
+
+ <Transformation id="130" name="T80">
+   <OutputGood idRef="32" quantity="1"/>
+ </Transformation>
+
+ <Transformation id="131" name="T81">
+   <InputGood idRef="10" quantity="1"/>
+   <InputGood idRef="50" quantity="1"/>
+   <OutputGood idRef="42" quantity="1"/>
+ </Transformation>
+
+ <Transformation id="132" name="T82">
+   <OutputGood idRef="35" quantity="1"/>
+ </Transformation>
+
+ <Transformation id="133" name="T83">
+   <OutputGood idRef="14" quantity="1"/>
+ </Transformation>
+
+ <Transformation id="134" name="T84">
+   <InputGood idRef="14" quantity="1"/>
+   <InputGood idRef="50" quantity="1"/>
+   <OutputGood idRef="26" quantity="1"/>
+ </Transformation>
+
+ <Transformation id="135" name="T85">
+   <OutputGood idRef="20" quantity="1"/>
+ </Transformation>
+
+ <Transformation id="136" name="T86">
+   <InputGood idRef="34" quantity="1"/>
+ </Transformation>
+
+ <Transformation id="137" name="T87">
+   <InputGood idRef="8" quantity="1"/>
+ </Transformation>
+
+ <Transformation id="138" name="T88">
+   <InputGood idRef="37" quantity="1"/>
+ </Transformation>
+
+ <Transformation id="139" name="T89">
+   <InputGood idRef="1" quantity="1"/>
+   <InputGood idRef="17" quantity="1"/>
+   <OutputGood idRef="42" quantity="1"/>
+ </Transformation>
+
+ <Transformation id="140" name="T90">
+   <InputGood idRef="11" quantity="1"/>
+ </Transformation>
+
+ <Transformation id="141" name="T91">
+   <InputGood idRef="14" quantity="1"/>
+   <InputGood idRef="50" quantity="1"/>
+   <OutputGood idRef="26" quantity="1"/>
+ </Transformation>
+
+ <Transformation id="142" name="T92">
+   <OutputGood idRef="5" quantity="1"/>
+ </Transformation>
+
+ <Transformation id="143" name="T93">
+   <InputGood idRef="21" quantity="1"/>
+ </Transformation>
+
+ <Transformation id="144" name="T94">
+   <InputGood idRef="10" quantity="1"/>
+   <InputGood idRef="50" quantity="1"/>
+   <OutputGood idRef="42" quantity="1"/>
+ </Transformation>
+
+ <Transformation id="145" name="T95">
+   <InputGood idRef="22" quantity="1"/>
+   <OutputGood idRef="27" quantity="1"/>
+ </Transformation>
+
+ <Transformation id="146" name="T96">
+   <InputGood idRef="50" quantity="1"/>
+   <OutputGood idRef="27" quantity="1"/>
+ </Transformation>
+
+ <Transformation id="147" name="T97">
+   <InputGood idRef="16" quantity="1"/>
+ </Transformation>
+
+ <Transformation id="148" name="T98">
+   <InputGood idRef="12" quantity="1"/>
+   <OutputGood idRef="4" quantity="1"/>
+ </Transformation>
+
+ <Transformation id="149" name="T99">
+   <InputGood idRef="28" quantity="1"/>
+ </Transformation>
+
+ <Transformation id="150" name="T100">
+   <OutputGood idRef="30" quantity="1"/>
+ </Transformation>
+
+ <Transformation id="151" name="T101">
+   <InputGood idRef="1" quantity="1"/>
+ </Transformation>
+
+ <Transformation id="152" name="T102">
+   <InputGood idRef="2" quantity="1"/>
+ </Transformation>
+
+ <Transformation id="153" name="T103">
+   <InputGood idRef="3" quantity="1"/>
+ </Transformation>
+
+ <Transformation id="154" name="T104">
+   <InputGood idRef="4" quantity="1"/>
+ </Transformation>
+
+ <Transformation id="155" name="T105">
+   <InputGood idRef="5" quantity="1"/>
+ </Transformation>
+
+ <Transformation id="156" name="T106">
+   <InputGood idRef="6" quantity="1"/>
+ </Transformation>
+
+ <Transformation id="157" name="T107">
+   <InputGood idRef="7" quantity="1"/>
+ </Transformation>
+
+ <Transformation id="158" name="T108">
+   <InputGood idRef="8" quantity="1"/>
+ </Transformation>
+
+ <Transformation id="159" name="T109">
+   <InputGood idRef="9" quantity="1"/>
+ </Transformation>
+
+ <Transformation id="160" name="T110">
+   <InputGood idRef="10" quantity="1"/>
+ </Transformation>
+
+ <Transformation id="161" name="T111">
+   <InputGood idRef="11" quantity="1"/>
+ </Transformation>
+
+ <Transformation id="162" name="T112">
+   <InputGood idRef="12" quantity="1"/>
+ </Transformation>
+
+ <Transformation id="163" name="T113">
+   <InputGood idRef="13" quantity="1"/>
+ </Transformation>
+
+ <Transformation id="164" name="T114">
+   <InputGood idRef="14" quantity="1"/>
+ </Transformation>
+
+ <Transformation id="165" name="T115">
+   <InputGood idRef="15" quantity="1"/>
+ </Transformation>
+
+ <Transformation id="166" name="T116">
+   <InputGood idRef="16" quantity="1"/>
+ </Transformation>
+
+ <Transformation id="167" name="T117">
+   <InputGood idRef="17" quantity="1"/>
+ </Transformation>
+
+ <Transformation id="168" name="T118">
+   <InputGood idRef="18" quantity="1"/>
+ </Transformation>
+
+ <Transformation id="169" name="T119">
+   <InputGood idRef="19" quantity="1"/>
+ </Transformation>
+
+ <Transformation id="170" name="T120">
+   <InputGood idRef="20" quantity="1"/>
+ </Transformation>
+
+ <Transformation id="171" name="T121">
+   <InputGood idRef="21" quantity="1"/>
+ </Transformation>
+
+ <Transformation id="172" name="T122">
+   <InputGood idRef="22" quantity="1"/>
+ </Transformation>
+
+ <Transformation id="173" name="T123">
+   <InputGood idRef="23" quantity="1"/>
+ </Transformation>
+
+ <Transformation id="174" name="T124">
+   <InputGood idRef="24" quantity="1"/>
+ </Transformation>
+
+ <Transformation id="175" name="T125">
+   <InputGood idRef="25" quantity="1"/>
+ </Transformation>
+
+ <Transformation id="176" name="T126">
+   <InputGood idRef="26" quantity="1"/>
+ </Transformation>
+
+ <Transformation id="177" name="T127">
+   <InputGood idRef="27" quantity="1"/>
+ </Transformation>
+
+ <Transformation id="178" name="T128">
+   <InputGood idRef="28" quantity="1"/>
+ </Transformation>
+
+ <Transformation id="179" name="T129">
+   <InputGood idRef="29" quantity="1"/>
+ </Transformation>
+
+ <Transformation id="180" name="T130">
+   <InputGood idRef="30" quantity="1"/>
+ </Transformation>
+
+ <Transformation id="181" name="T131">
+   <InputGood idRef="31" quantity="1"/>
+ </Transformation>
+
+ <Transformation id="182" name="T132">
+   <InputGood idRef="32" quantity="1"/>
+ </Transformation>
+
+ <Transformation id="183" name="T133">
+   <InputGood idRef="33" quantity="1"/>
+ </Transformation>
+
+ <Transformation id="184" name="T134">
+   <InputGood idRef="34" quantity="1"/>
+ </Transformation>
+
+ <Transformation id="185" name="T135">
+   <InputGood idRef="35" quantity="1"/>
+ </Transformation>
+
+ <Transformation id="186" name="T136">
+   <InputGood idRef="36" quantity="1"/>
+ </Transformation>
+
+ <Transformation id="187" name="T137">
+   <InputGood idRef="37" quantity="1"/>
+ </Transformation>
+
+ <Transformation id="188" name="T138">
+   <InputGood idRef="38" quantity="1"/>
+ </Transformation>
+
+ <Transformation id="189" name="T139">
+   <InputGood idRef="39" quantity="1"/>
+ </Transformation>
+
+ <Transformation id="190" name="T140">
+   <InputGood idRef="40" quantity="1"/>
+ </Transformation>
+
+ <Transformation id="191" name="T141">
+   <InputGood idRef="41" quantity="1"/>
+ </Transformation>
+
+ <Transformation id="192" name="T142">
+   <InputGood idRef="42" quantity="1"/>
+ </Transformation>
+
+ <Transformation id="193" name="T143">
+   <InputGood idRef="43" quantity="1"/>
+ </Transformation>
+
+ <Transformation id="194" name="T144">
+   <InputGood idRef="44" quantity="1"/>
+ </Transformation>
+
+ <Transformation id="195" name="T145">
+   <InputGood idRef="45" quantity="1"/>
+ </Transformation>
+
+ <Transformation id="196" name="T146">
+   <InputGood idRef="46" quantity="1"/>
+ </Transformation>
+
+ <Transformation id="197" name="T147">
+   <InputGood idRef="47" quantity="1"/>
+ </Transformation>
+
+ <Transformation id="198" name="T148">
+   <InputGood idRef="48" quantity="1"/>
+ </Transformation>
+
+ <Transformation id="199" name="T149">
+   <InputGood idRef="49" quantity="1"/>
+ </Transformation>
+
+ <Transformation id="200" name="T150">
+   <InputGood idRef="50" quantity="1"/>
+ </Transformation>
+
+ <Transformation id="201" name="T151">
+   <OutputGood idRef="1" quantity="1"/>
+ </Transformation>
+
+ <Transformation id="202" name="T152">
+   <OutputGood idRef="2" quantity="1"/>
+ </Transformation>
+
+ <Transformation id="203" name="T153">
+   <OutputGood idRef="3" quantity="1"/>
+ </Transformation>
+
+ <Transformation id="204" name="T154">
+   <OutputGood idRef="4" quantity="1"/>
+ </Transformation>
+
+ <Transformation id="205" name="T155">
+   <OutputGood idRef="5" quantity="1"/>
+ </Transformation>
+
+ <Transformation id="206" name="T156">
+   <OutputGood idRef="6" quantity="1"/>
+ </Transformation>
+
+ <Transformation id="207" name="T157">
+   <OutputGood idRef="7" quantity="1"/>
+ </Transformation>
+
+ <Transformation id="208" name="T158">
+   <OutputGood idRef="8" quantity="1"/>
+ </Transformation>
+
+ <Transformation id="209" name="T159">
+   <OutputGood idRef="9" quantity="1"/>
+ </Transformation>
+
+ <Transformation id="210" name="T160">
+   <OutputGood idRef="10" quantity="1"/>
+ </Transformation>
+
+ <Transformation id="211" name="T161">
+   <OutputGood idRef="11" quantity="1"/>
+ </Transformation>
+
+ <Transformation id="212" name="T162">
+   <OutputGood idRef="12" quantity="1"/>
+ </Transformation>
+
+ <Transformation id="213" name="T163">
+   <OutputGood idRef="13" quantity="1"/>
+ </Transformation>
+
+ <Transformation id="214" name="T164">
+   <OutputGood idRef="14" quantity="1"/>
+ </Transformation>
+
+ <Transformation id="215" name="T165">
+   <OutputGood idRef="15" quantity="1"/>
+ </Transformation>
+
+ <Transformation id="216" name="T166">
+   <OutputGood idRef="16" quantity="1"/>
+ </Transformation>
+
+ <Transformation id="217" name="T167">
+   <OutputGood idRef="17" quantity="1"/>
+ </Transformation>
+
+ <Transformation id="218" name="T168">
+   <OutputGood idRef="18" quantity="1"/>
+ </Transformation>
+
+ <Transformation id="219" name="T169">
+   <OutputGood idRef="19" quantity="1"/>
+ </Transformation>
+
+ <Transformation id="220" name="T170">
+   <OutputGood idRef="20" quantity="1"/>
+ </Transformation>
+
+ <Transformation id="221" name="T171">
+   <OutputGood idRef="21" quantity="1"/>
+ </Transformation>
+
+ <Transformation id="222" name="T172">
+   <OutputGood idRef="22" quantity="1"/>
+ </Transformation>
+
+ <Transformation id="223" name="T173">
+   <OutputGood idRef="23" quantity="1"/>
+ </Transformation>
+
+ <Transformation id="224" name="T174">
+   <OutputGood idRef="24" quantity="1"/>
+ </Transformation>
+
+ <Transformation id="225" name="T175">
+   <OutputGood idRef="25" quantity="1"/>
+ </Transformation>
+
+ <Transformation id="226" name="T176">
+   <OutputGood idRef="26" quantity="1"/>
+ </Transformation>
+
+ <Transformation id="227" name="T177">
+   <OutputGood idRef="27" quantity="1"/>
+ </Transformation>
+
+ <Transformation id="228" name="T178">
+   <OutputGood idRef="28" quantity="1"/>
+ </Transformation>
+
+ <Transformation id="229" name="T179">
+   <OutputGood idRef="29" quantity="1"/>
+ </Transformation>
+
+ <Transformation id="230" name="T180">
+   <OutputGood idRef="30" quantity="1"/>
+ </Transformation>
+
+ <Transformation id="231" name="T181">
+   <OutputGood idRef="31" quantity="1"/>
+ </Transformation>
+
+ <Transformation id="232" name="T182">
+   <OutputGood idRef="32" quantity="1"/>
+ </Transformation>
+
+ <Transformation id="233" name="T183">
+   <OutputGood idRef="33" quantity="1"/>
+ </Transformation>
+
+ <Transformation id="234" name="T184">
+   <OutputGood idRef="34" quantity="1"/>
+ </Transformation>
+
+ <Transformation id="235" name="T185">
+   <OutputGood idRef="35" quantity="1"/>
+ </Transformation>
+
+ <Transformation id="236" name="T186">
+   <OutputGood idRef="36" quantity="1"/>
+ </Transformation>
+
+ <Transformation id="237" name="T187">
+   <OutputGood idRef="37" quantity="1"/>
+ </Transformation>
+
+ <Transformation id="238" name="T188">
+   <OutputGood idRef="38" quantity="1"/>
+ </Transformation>
+
+ <Transformation id="239" name="T189">
+   <OutputGood idRef="39" quantity="1"/>
+ </Transformation>
+
+ <Transformation id="240" name="T190">
+   <OutputGood idRef="40" quantity="1"/>
+ </Transformation>
+
+ <Transformation id="241" name="T191">
+   <OutputGood idRef="41" quantity="1"/>
+ </Transformation>
+
+ <Transformation id="242" name="T192">
+   <OutputGood idRef="42" quantity="1"/>
+ </Transformation>
+
+ <Transformation id="243" name="T193">
+   <OutputGood idRef="43" quantity="1"/>
+ </Transformation>
+
+ <Transformation id="244" name="T194">
+   <OutputGood idRef="44" quantity="1"/>
+ </Transformation>
+
+ <Transformation id="245" name="T195">
+   <OutputGood idRef="45" quantity="1"/>
+ </Transformation>
+
+ <Transformation id="246" name="T196">
+   <OutputGood idRef="46" quantity="1"/>
+ </Transformation>
+
+ <Transformation id="247" name="T197">
+   <OutputGood idRef="47" quantity="1"/>
+ </Transformation>
+
+ <Transformation id="248" name="T198">
+   <OutputGood idRef="48" quantity="1"/>
+ </Transformation>
+
+ <Transformation id="249" name="T199">
+   <OutputGood idRef="49" quantity="1"/>
+ </Transformation>
+
+ <Transformation id="250" name="T200">
+   <OutputGood idRef="50" quantity="1"/>
+ </Transformation>
+
+ <BidsCombination agentName="agent1" type="XOR">
+
+  <AtomicBid price="-34.8837468675241666460351552814245223999023437500000000000000000000000000000000000000000000000000000000">
+     <BidTransformation idRef="51" quantity="1" />
+  </AtomicBid>
+
+ </BidsCombination>
+
+ <BidsCombination agentName="agent2" type="XOR">
+
+  <AtomicBid price="67.0207934508310501087180455215275287628173828125000000000000000000000000000000000000000000000000000000">
+     <BidTransformation idRef="52" quantity="1" />
+  </AtomicBid>
+
+ </BidsCombination>
+
+ <BidsCombination agentName="agent3" type="XOR">
+
+  <AtomicBid price="65.8773834107167601814580848440527915954589843750000000000000000000000000000000000000000000000000000000">
+     <BidTransformation idRef="53" quantity="1" />
+  </AtomicBid>
+
+ </BidsCombination>
+
+ <BidsCombination agentName="agent4" type="XOR">
+
+  <AtomicBid price="1.7994585436817061019354468953679315745830535888671875000000000000000000000000000000000000000000000000">
+     <BidTransformation idRef="54" quantity="1" />
+  </AtomicBid>
+
+ </BidsCombination>
+
+ <BidsCombination agentName="agent5" type="XOR">
+
+  <AtomicBid price="44.0571329185157409824569185730069875717163085937500000000000000000000000000000000000000000000000000000">
+     <BidTransformation idRef="55" quantity="1" />
+  </AtomicBid>
+
+ </BidsCombination>
+
+ <BidsCombination agentName="agent6" type="XOR">
+
+  <AtomicBid price="43.8321215056526867215325182769447565078735351562500000000000000000000000000000000000000000000000000000">
+     <BidTransformation idRef="56" quantity="1" />
+  </AtomicBid>
+
+ </BidsCombination>
+
+ <BidsCombination agentName="agent7" type="XOR">
+
+  <AtomicBid price="34.4185678204027851734281284734606742858886718750000000000000000000000000000000000000000000000000000000">
+     <BidTransformation idRef="57" quantity="1" />
+  </AtomicBid>
+
+ </BidsCombination>
+
+ <BidsCombination agentName="agent8" type="XOR">
+
+  <AtomicBid price="157.2337822641590605599049013108015060424804687500000000000000000000000000000000000000000000000000000000">
+     <BidTransformation idRef="58" quantity="1" />
+  </AtomicBid>
+
+ </BidsCombination>
+
+ <BidsCombination agentName="agent9" type="XOR">
+
+  <AtomicBid price="31.5515621310908969121555855963379144668579101562500000000000000000000000000000000000000000000000000000">
+     <BidTransformation idRef="59" quantity="1" />
+  </AtomicBid>
+
+ </BidsCombination>
+
+ <BidsCombination agentName="agent10" type="XOR">
+
+  <AtomicBid price="23.3142261685830050055301398970186710357666015625000000000000000000000000000000000000000000000000000000">
+     <BidTransformation idRef="60" quantity="1" />
+  </AtomicBid>
+
+ </BidsCombination>
+
+ <BidsCombination agentName="agent11" type="XOR">
+
+  <AtomicBid price="-24.3391660301410652778031362686306238174438476562500000000000000000000000000000000000000000000000000000">
+     <BidTransformation idRef="61" quantity="1" />
+  </AtomicBid>
+
+ </BidsCombination>
+
+ <BidsCombination agentName="agent12" type="XOR">
+
+  <AtomicBid price="87.9531908451828456918519805185496807098388671875000000000000000000000000000000000000000000000000000000">
+     <BidTransformation idRef="62" quantity="1" />
+  </AtomicBid>
+
+ </BidsCombination>
+
+ <BidsCombination agentName="agent13" type="XOR">
+
+  <AtomicBid price="-77.1586550527218832939979620277881622314453125000000000000000000000000000000000000000000000000000000000">
+     <BidTransformation idRef="63" quantity="1" />
+  </AtomicBid>
+
+ </BidsCombination>
+
+ <BidsCombination agentName="agent14" type="XOR">
+
+  <AtomicBid price="-7.5622797399569501308747021539602428674697875976562500000000000000000000000000000000000000000000000000">
+     <BidTransformation idRef="64" quantity="1" />
+  </AtomicBid>
+
+ </BidsCombination>
+
+ <BidsCombination agentName="agent15" type="XOR">
+
+  <AtomicBid price="1.2469466676143212691130202074418775737285614013671875000000000000000000000000000000000000000000000000">
+     <BidTransformation idRef="65" quantity="1" />
+  </AtomicBid>
+
+ </BidsCombination>
+
+ <BidsCombination agentName="agent16" type="XOR">
+
+  <AtomicBid price="18.8557402094319535024169454118236899375915527343750000000000000000000000000000000000000000000000000000">
+     <BidTransformation idRef="66" quantity="1" />
+  </AtomicBid>
+
+ </BidsCombination>
+
+ <BidsCombination agentName="agent17" type="XOR">
+
+  <AtomicBid price="-58.0546367087899852776899933815002441406250000000000000000000000000000000000000000000000000000000000000">
+     <BidTransformation idRef="67" quantity="1" />
+  </AtomicBid>
+
+ </BidsCombination>
+
+ <BidsCombination agentName="agent18" type="XOR">
+
+  <AtomicBid price="-40.2927259110669453434638853650540113449096679687500000000000000000000000000000000000000000000000000000">
+     <BidTransformation idRef="68" quantity="1" />
+  </AtomicBid>
+
+ </BidsCombination>
+
+ <BidsCombination agentName="agent19" type="XOR">
+
+  <AtomicBid price="32.7309909763341693178517743945121765136718750000000000000000000000000000000000000000000000000000000000">
+     <BidTransformation idRef="69" quantity="1" />
+  </AtomicBid>
+
+ </BidsCombination>
+
+ <BidsCombination agentName="agent20" type="XOR">
+
+  <AtomicBid price="62.4542131962768536368457716889679431915283203125000000000000000000000000000000000000000000000000000000">
+     <BidTransformation idRef="70" quantity="1" />
+  </AtomicBid>
+
+ </BidsCombination>
+
+ <BidsCombination agentName="agent21" type="XOR">
+
+  <AtomicBid price="23.6659715671456467589450767263770103454589843750000000000000000000000000000000000000000000000000000000">
+     <BidTransformation idRef="71" quantity="1" />
+  </AtomicBid>
+
+ </BidsCombination>
+
+ <BidsCombination agentName="agent22" type="XOR">
+
+  <AtomicBid price="-72.0733614224658509783694171346724033355712890625000000000000000000000000000000000000000000000000000000">
+     <BidTransformation idRef="72" quantity="1" />
+  </AtomicBid>
+
+ </BidsCombination>
+
+ <BidsCombination agentName="agent23" type="XOR">
+
+  <AtomicBid price="-32.5029881550294206249418493825942277908325195312500000000000000000000000000000000000000000000000000000">
+     <BidTransformation idRef="73" quantity="1" />
+  </AtomicBid>
+
+ </BidsCombination>
+
+ <BidsCombination agentName="agent24" type="XOR">
+
+  <AtomicBid price="57.4210525548484156388440169394016265869140625000000000000000000000000000000000000000000000000000000000">
+     <BidTransformation idRef="74" quantity="1" />
+  </AtomicBid>
+
+ </BidsCombination>
+
+ <BidsCombination agentName="agent25" type="XOR">
+
+  <AtomicBid price="23.2247202853788330401130224345251917839050292968750000000000000000000000000000000000000000000000000000">
+     <BidTransformation idRef="75" quantity="1" />
+  </AtomicBid>
+
+ </BidsCombination>
+
+ <BidsCombination agentName="agent26" type="XOR">
+
+  <AtomicBid price="52.4750166156223301072714093606919050216674804687500000000000000000000000000000000000000000000000000000">
+     <BidTransformation idRef="76" quantity="1" />
+  </AtomicBid>
+
+ </BidsCombination>
+
+ <BidsCombination agentName="agent27" type="XOR">
+
+  <AtomicBid price="114.0538004698484115806422778405249118804931640625000000000000000000000000000000000000000000000000000000">
+     <BidTransformation idRef="77" quantity="1" />
+  </AtomicBid>
+
+ </BidsCombination>
+
+ <BidsCombination agentName="agent28" type="XOR">
+
+  <AtomicBid price="19.3984518607920648491926840506494045257568359375000000000000000000000000000000000000000000000000000000">
+     <BidTransformation idRef="78" quantity="1" />
+  </AtomicBid>
+
+ </BidsCombination>
+
+ <BidsCombination agentName="agent29" type="XOR">
+
+  <AtomicBid price="24.4293335384736103321756672812625765800476074218750000000000000000000000000000000000000000000000000000">
+     <BidTransformation idRef="79" quantity="1" />
+  </AtomicBid>
+
+ </BidsCombination>
+
+ <BidsCombination agentName="agent30" type="XOR">
+
+  <AtomicBid price="64.8515182041033000359675497747957706451416015625000000000000000000000000000000000000000000000000000000">
+     <BidTransformation idRef="80" quantity="1" />
+  </AtomicBid>
+
+ </BidsCombination>
+
+ <BidsCombination agentName="agent31" type="XOR">
+
+  <AtomicBid price="-75.6196039335239476031347294338047504425048828125000000000000000000000000000000000000000000000000000000">
+     <BidTransformation idRef="81" quantity="1" />
+  </AtomicBid>
+
+ </BidsCombination>
+
+ <BidsCombination agentName="agent32" type="XOR">
+
+  <AtomicBid price="20.0169880970052638247125287307426333427429199218750000000000000000000000000000000000000000000000000000">
+     <BidTransformation idRef="82" quantity="1" />
+  </AtomicBid>
+
+ </BidsCombination>
+
+ <BidsCombination agentName="agent33" type="XOR">
+
+  <AtomicBid price="81.8386951873788603961656917817890644073486328125000000000000000000000000000000000000000000000000000000">
+     <BidTransformation idRef="83" quantity="1" />
+  </AtomicBid>
+
+ </BidsCombination>
+
+ <BidsCombination agentName="agent34" type="XOR">
+
+  <AtomicBid price="69.3803241730112034701960510574281215667724609375000000000000000000000000000000000000000000000000000000">
+     <BidTransformation idRef="84" quantity="1" />
+  </AtomicBid>
+
+ </BidsCombination>
+
+ <BidsCombination agentName="agent35" type="XOR">
+
+  <AtomicBid price="2.0967605544309604326258522632997483015060424804687500000000000000000000000000000000000000000000000000">
+     <BidTransformation idRef="85" quantity="1" />
+  </AtomicBid>
+
+ </BidsCombination>
+
+ <BidsCombination agentName="agent36" type="XOR">
+
+  <AtomicBid price="31.2994389491934867919553653337061405181884765625000000000000000000000000000000000000000000000000000000">
+     <BidTransformation idRef="86" quantity="1" />
+  </AtomicBid>
+
+ </BidsCombination>
+
+ <BidsCombination agentName="agent37" type="XOR">
+
+  <AtomicBid price="69.8848070040856583773347665555775165557861328125000000000000000000000000000000000000000000000000000000">
+     <BidTransformation idRef="87" quantity="1" />
+  </AtomicBid>
+
+ </BidsCombination>
+
+ <BidsCombination agentName="agent38" type="XOR">
+
+  <AtomicBid price="67.5277705367989966589448158629238605499267578125000000000000000000000000000000000000000000000000000000">
+     <BidTransformation idRef="88" quantity="1" />
+  </AtomicBid>
+
+ </BidsCombination>
+
+ <BidsCombination agentName="agent39" type="XOR">
+
+  <AtomicBid price="58.8880917370228544882593268994241952896118164062500000000000000000000000000000000000000000000000000000">
+     <BidTransformation idRef="89" quantity="1" />
+  </AtomicBid>
+
+ </BidsCombination>
+
+ <BidsCombination agentName="agent40" type="XOR">
+
+  <AtomicBid price="20.7869662747190346863135346211493015289306640625000000000000000000000000000000000000000000000000000000">
+     <BidTransformation idRef="90" quantity="1" />
+  </AtomicBid>
+
+ </BidsCombination>
+
+ <BidsCombination agentName="agent41" type="XOR">
+
+  <AtomicBid price="48.1388517183881887717689096461981534957885742187500000000000000000000000000000000000000000000000000000">
+     <BidTransformation idRef="91" quantity="1" />
+  </AtomicBid>
+
+ </BidsCombination>
+
+ <BidsCombination agentName="agent42" type="XOR">
+
+  <AtomicBid price="1.8735234286976960582649098796537145972251892089843750000000000000000000000000000000000000000000000000">
+     <BidTransformation idRef="92" quantity="1" />
+  </AtomicBid>
+
+ </BidsCombination>
+
+ <BidsCombination agentName="agent43" type="XOR">
+
+  <AtomicBid price="59.0172327498599997852579690515995025634765625000000000000000000000000000000000000000000000000000000000">
+     <BidTransformation idRef="93" quantity="1" />
+  </AtomicBid>
+
+ </BidsCombination>
+
+ <BidsCombination agentName="agent44" type="XOR">
+
+  <AtomicBid price="-66.2976604637355251270491862669587135314941406250000000000000000000000000000000000000000000000000000000">
+     <BidTransformation idRef="94" quantity="1" />
+  </AtomicBid>
+
+ </BidsCombination>
+
+ <BidsCombination agentName="agent45" type="XOR">
+
+  <AtomicBid price="85.4652212612295301141784875653684139251708984375000000000000000000000000000000000000000000000000000000">
+     <BidTransformation idRef="95" quantity="1" />
+  </AtomicBid>
+
+ </BidsCombination>
+
+ <BidsCombination agentName="agent46" type="XOR">
+
+  <AtomicBid price="7.5717331060465618008947785710915923118591308593750000000000000000000000000000000000000000000000000000">
+     <BidTransformation idRef="96" quantity="1" />
+  </AtomicBid>
+
+ </BidsCombination>
+
+ <BidsCombination agentName="agent47" type="XOR">
+
+  <AtomicBid price="6.4027620689036748302669366239570081233978271484375000000000000000000000000000000000000000000000000000">
+     <BidTransformation idRef="97" quantity="1" />
+  </AtomicBid>
+
+ </BidsCombination>
+
+ <BidsCombination agentName="agent48" type="XOR">
+
+  <AtomicBid price="-9.8956265330852666295413655461743474006652832031250000000000000000000000000000000000000000000000000000">
+     <BidTransformation idRef="98" quantity="1" />
+  </AtomicBid>
+
+ </BidsCombination>
+
+ <BidsCombination agentName="agent49" type="XOR">
+
+  <AtomicBid price="-2.7780760937527166909433162800269201397895812988281250000000000000000000000000000000000000000000000000">
+     <BidTransformation idRef="99" quantity="1" />
+  </AtomicBid>
+
+ </BidsCombination>
+
+ <BidsCombination agentName="agent50" type="XOR">
+
+  <AtomicBid price="60.2975332890101469729415839537978172302246093750000000000000000000000000000000000000000000000000000000">
+     <BidTransformation idRef="100" quantity="1" />
+  </AtomicBid>
+
+ </BidsCombination>
+
+ <BidsCombination agentName="agent51" type="XOR">
+
+  <AtomicBid price="-9.4566248552384983838692278368398547172546386718750000000000000000000000000000000000000000000000000000">
+     <BidTransformation idRef="101" quantity="1" />
+  </AtomicBid>
+
+ </BidsCombination>
+
+ <BidsCombination agentName="agent52" type="XOR">
+
+  <AtomicBid price="19.7802739497669683998992695705965161323547363281250000000000000000000000000000000000000000000000000000">
+     <BidTransformation idRef="102" quantity="1" />
+  </AtomicBid>
+
+ </BidsCombination>
+
+ <BidsCombination agentName="agent53" type="XOR">
+
+  <AtomicBid price="-10.1817277796067457984463544562458992004394531250000000000000000000000000000000000000000000000000000000">
+     <BidTransformation idRef="103" quantity="1" />
+  </AtomicBid>
+
+ </BidsCombination>
+
+ <BidsCombination agentName="agent54" type="XOR">
+
+  <AtomicBid price="-13.7507936399569032914769195485860109329223632812500000000000000000000000000000000000000000000000000000">
+     <BidTransformation idRef="104" quantity="1" />
+  </AtomicBid>
+
+ </BidsCombination>
+
+ <BidsCombination agentName="agent55" type="XOR">
+
+  <AtomicBid price="-24.0833688150292672958130424376577138900756835937500000000000000000000000000000000000000000000000000000">
+     <BidTransformation idRef="105" quantity="1" />
+  </AtomicBid>
+
+ </BidsCombination>
+
+ <BidsCombination agentName="agent56" type="XOR">
+
+  <AtomicBid price="-43.1158161457140352013084338977932929992675781250000000000000000000000000000000000000000000000000000000">
+     <BidTransformation idRef="106" quantity="1" />
+  </AtomicBid>
+
+ </BidsCombination>
+
+ <BidsCombination agentName="agent57" type="XOR">
+
+  <AtomicBid price="-48.1054365115121740359427349176257848739624023437500000000000000000000000000000000000000000000000000000">
+     <BidTransformation idRef="107" quantity="1" />
+  </AtomicBid>
+
+ </BidsCombination>
+
+ <BidsCombination agentName="agent58" type="XOR">
+
+  <AtomicBid price="19.1462973507571199149879248579964041709899902343750000000000000000000000000000000000000000000000000000">
+     <BidTransformation idRef="108" quantity="1" />
+  </AtomicBid>
+
+ </BidsCombination>
+
+ <BidsCombination agentName="agent59" type="XOR">
+
+  <AtomicBid price="19.0438338180196531368437717901542782783508300781250000000000000000000000000000000000000000000000000000">
+     <BidTransformation idRef="109" quantity="1" />
+  </AtomicBid>
+
+ </BidsCombination>
+
+ <BidsCombination agentName="agent60" type="XOR">
+
+  <AtomicBid price="134.6256324982215915042615961283445358276367187500000000000000000000000000000000000000000000000000000000">
+     <BidTransformation idRef="110" quantity="1" />
+  </AtomicBid>
+
+ </BidsCombination>
+
+ <BidsCombination agentName="agent61" type="XOR">
+
+  <AtomicBid price="62.3844170206763379837866523303091526031494140625000000000000000000000000000000000000000000000000000000">
+     <BidTransformation idRef="111" quantity="1" />
+  </AtomicBid>
+
+ </BidsCombination>
+
+ <BidsCombination agentName="agent62" type="XOR">
+
+  <AtomicBid price="-34.9634105094950200509629212319850921630859375000000000000000000000000000000000000000000000000000000000">
+     <BidTransformation idRef="112" quantity="1" />
+  </AtomicBid>
+
+ </BidsCombination>
+
+ <BidsCombination agentName="agent63" type="XOR">
+
+  <AtomicBid price="-34.0415144986305548968630318995565176010131835937500000000000000000000000000000000000000000000000000000">
+     <BidTransformation idRef="113" quantity="1" />
+  </AtomicBid>
+
+ </BidsCombination>
+
+ <BidsCombination agentName="agent64" type="XOR">
+
+  <AtomicBid price="23.0551375743225861469909432344138622283935546875000000000000000000000000000000000000000000000000000000">
+     <BidTransformation idRef="114" quantity="1" />
+  </AtomicBid>
+
+ </BidsCombination>
+
+ <BidsCombination agentName="agent65" type="XOR">
+
+  <AtomicBid price="23.6104122015854507310450571822002530097961425781250000000000000000000000000000000000000000000000000000">
+     <BidTransformation idRef="115" quantity="1" />
+  </AtomicBid>
+
+ </BidsCombination>
+
+ <BidsCombination agentName="agent66" type="XOR">
+
+  <AtomicBid price="-33.4689680535907925218452874105423688888549804687500000000000000000000000000000000000000000000000000000">
+     <BidTransformation idRef="116" quantity="1" />
+  </AtomicBid>
+
+ </BidsCombination>
+
+ <BidsCombination agentName="agent67" type="XOR">
+
+  <AtomicBid price="88.9334182167399234231197624467313289642333984375000000000000000000000000000000000000000000000000000000">
+     <BidTransformation idRef="117" quantity="1" />
+  </AtomicBid>
+
+ </BidsCombination>
+
+ <BidsCombination agentName="agent68" type="XOR">
+
+  <AtomicBid price="-48.8894755359928865345864323899149894714355468750000000000000000000000000000000000000000000000000000000">
+     <BidTransformation idRef="118" quantity="1" />
+  </AtomicBid>
+
+ </BidsCombination>
+
+ <BidsCombination agentName="agent69" type="XOR">
+
+  <AtomicBid price="-10.1105576770987308776739155291579663753509521484375000000000000000000000000000000000000000000000000000">
+     <BidTransformation idRef="119" quantity="1" />
+  </AtomicBid>
+
+ </BidsCombination>
+
+ <BidsCombination agentName="agent70" type="XOR">
+
+  <AtomicBid price="23.7283579815588332451170572312548756599426269531250000000000000000000000000000000000000000000000000000">
+     <BidTransformation idRef="120" quantity="1" />
+  </AtomicBid>
+
+ </BidsCombination>
+
+ <BidsCombination agentName="agent71" type="XOR">
+
+  <AtomicBid price="34.1376781360891854433248226996511220932006835937500000000000000000000000000000000000000000000000000000">
+     <BidTransformation idRef="121" quantity="1" />
+  </AtomicBid>
+
+ </BidsCombination>
+
+ <BidsCombination agentName="agent72" type="XOR">
+
+  <AtomicBid price="18.3270303330693700161191372899338603019714355468750000000000000000000000000000000000000000000000000000">
+     <BidTransformation idRef="122" quantity="1" />
+  </AtomicBid>
+
+ </BidsCombination>
+
+ <BidsCombination agentName="agent73" type="XOR">
+
+  <AtomicBid price="-33.4998307284963132701705035287886857986450195312500000000000000000000000000000000000000000000000000000">
+     <BidTransformation idRef="123" quantity="1" />
+  </AtomicBid>
+
+ </BidsCombination>
+
+ <BidsCombination agentName="agent74" type="XOR">
+
+  <AtomicBid price="9.2285647366680976233510591555386781692504882812500000000000000000000000000000000000000000000000000000">
+     <BidTransformation idRef="124" quantity="1" />
+  </AtomicBid>
+
+ </BidsCombination>
+
+ <BidsCombination agentName="agent75" type="XOR">
+
+  <AtomicBid price="18.1076445359223896502953721210360527038574218750000000000000000000000000000000000000000000000000000000">
+     <BidTransformation idRef="125" quantity="1" />
+  </AtomicBid>
+
+ </BidsCombination>
+
+ <BidsCombination agentName="agent76" type="XOR">
+
+  <AtomicBid price="27.4097863324142281271633692085742950439453125000000000000000000000000000000000000000000000000000000000">
+     <BidTransformation idRef="126" quantity="1" />
+  </AtomicBid>
+
+ </BidsCombination>
+
+ <BidsCombination agentName="agent77" type="XOR">
+
+  <AtomicBid price="-10.3798451969651761572777104447595775127410888671875000000000000000000000000000000000000000000000000000">
+     <BidTransformation idRef="127" quantity="1" />
+  </AtomicBid>
+
+ </BidsCombination>
+
+ <BidsCombination agentName="agent78" type="XOR">
+
+  <AtomicBid price="157.6408522929551168090256396681070327758789062500000000000000000000000000000000000000000000000000000000">
+     <BidTransformation idRef="128" quantity="1" />
+  </AtomicBid>
+
+ </BidsCombination>
+
+ <BidsCombination agentName="agent79" type="XOR">
+
+  <AtomicBid price="23.4239317701566633900256420020014047622680664062500000000000000000000000000000000000000000000000000000">
+     <BidTransformation idRef="129" quantity="1" />
+  </AtomicBid>
+
+ </BidsCombination>
+
+ <BidsCombination agentName="agent80" type="XOR">
+
+  <AtomicBid price="-76.6968202789087172277504578232765197753906250000000000000000000000000000000000000000000000000000000000">
+     <BidTransformation idRef="130" quantity="1" />
+  </AtomicBid>
+
+ </BidsCombination>
+
+ <BidsCombination agentName="agent81" type="XOR">
+
+  <AtomicBid price="-13.6987711037119144208418219932354986667633056640625000000000000000000000000000000000000000000000000000">
+     <BidTransformation idRef="131" quantity="1" />
+  </AtomicBid>
+
+ </BidsCombination>
+
+ <BidsCombination agentName="agent82" type="XOR">
+
+  <AtomicBid price="-33.5738338180238713448488852009177207946777343750000000000000000000000000000000000000000000000000000000">
+     <BidTransformation idRef="132" quantity="1" />
+  </AtomicBid>
+
+ </BidsCombination>
+
+ <BidsCombination agentName="agent83" type="XOR">
+
+  <AtomicBid price="-42.8213053820531541759919491596519947052001953125000000000000000000000000000000000000000000000000000000">
+     <BidTransformation idRef="133" quantity="1" />
+  </AtomicBid>
+
+ </BidsCombination>
+
+ <BidsCombination agentName="agent84" type="XOR">
+
+  <AtomicBid price="31.5749962938588168981368653476238250732421875000000000000000000000000000000000000000000000000000000000">
+     <BidTransformation idRef="134" quantity="1" />
+  </AtomicBid>
+
+ </BidsCombination>
+
+ <BidsCombination agentName="agent85" type="XOR">
+
+  <AtomicBid price="-34.3911511936419174162438139319419860839843750000000000000000000000000000000000000000000000000000000000">
+     <BidTransformation idRef="135" quantity="1" />
+  </AtomicBid>
+
+ </BidsCombination>
+
+ <BidsCombination agentName="agent86" type="XOR">
+
+  <AtomicBid price="31.8051654734328259621634060749784111976623535156250000000000000000000000000000000000000000000000000000">
+     <BidTransformation idRef="136" quantity="1" />
+  </AtomicBid>
+
+ </BidsCombination>
+
+ <BidsCombination agentName="agent87" type="XOR">
+
+  <AtomicBid price="56.8244644637364473283014376647770404815673828125000000000000000000000000000000000000000000000000000000">
+     <BidTransformation idRef="137" quantity="1" />
+  </AtomicBid>
+
+ </BidsCombination>
+
+ <BidsCombination agentName="agent88" type="XOR">
+
+  <AtomicBid price="19.7923642242238067012749525019899010658264160156250000000000000000000000000000000000000000000000000000">
+     <BidTransformation idRef="138" quantity="1" />
+  </AtomicBid>
+
+ </BidsCombination>
+
+ <BidsCombination agentName="agent89" type="XOR">
+
+  <AtomicBid price="62.6543762111604323195024335291236639022827148437500000000000000000000000000000000000000000000000000000">
+     <BidTransformation idRef="139" quantity="1" />
+  </AtomicBid>
+
+ </BidsCombination>
+
+ <BidsCombination agentName="agent90" type="XOR">
+
+  <AtomicBid price="59.5240627940955064900663273874670267105102539062500000000000000000000000000000000000000000000000000000">
+     <BidTransformation idRef="140" quantity="1" />
+  </AtomicBid>
+
+ </BidsCombination>
+
+ <BidsCombination agentName="agent91" type="XOR">
+
+  <AtomicBid price="31.9148618573986873059311619726940989494323730468750000000000000000000000000000000000000000000000000000">
+     <BidTransformation idRef="141" quantity="1" />
+  </AtomicBid>
+
+ </BidsCombination>
+
+ <BidsCombination agentName="agent92" type="XOR">
+
+  <AtomicBid price="-52.3986085192925727938018098939210176467895507812500000000000000000000000000000000000000000000000000000">
+     <BidTransformation idRef="142" quantity="1" />
+  </AtomicBid>
+
+ </BidsCombination>
+
+ <BidsCombination agentName="agent93" type="XOR">
+
+  <AtomicBid price="32.2413567936125602386709942948073148727416992187500000000000000000000000000000000000000000000000000000">
+     <BidTransformation idRef="143" quantity="1" />
+  </AtomicBid>
+
+ </BidsCombination>
+
+ <BidsCombination agentName="agent94" type="XOR">
+
+  <AtomicBid price="-14.8623005361076003794096322963014245033264160156250000000000000000000000000000000000000000000000000000">
+     <BidTransformation idRef="144" quantity="1" />
+  </AtomicBid>
+
+ </BidsCombination>
+
+ <BidsCombination agentName="agent95" type="XOR">
+
+  <AtomicBid price="21.0841932722517810816498240455985069274902343750000000000000000000000000000000000000000000000000000000">
+     <BidTransformation idRef="145" quantity="1" />
+  </AtomicBid>
+
+ </BidsCombination>
+
+ <BidsCombination agentName="agent96" type="XOR">
+
+  <AtomicBid price="-12.3872335610422901197580358712002635002136230468750000000000000000000000000000000000000000000000000000">
+     <BidTransformation idRef="146" quantity="1" />
+  </AtomicBid>
+
+ </BidsCombination>
+
+ <BidsCombination agentName="agent97" type="XOR">
+
+  <AtomicBid price="88.3146667822677216008742107078433036804199218750000000000000000000000000000000000000000000000000000000">
+     <BidTransformation idRef="147" quantity="1" />
+  </AtomicBid>
+
+ </BidsCombination>
+
+ <BidsCombination agentName="agent98" type="XOR">
+
+  <AtomicBid price="-23.7357597225881526981083879945799708366394042968750000000000000000000000000000000000000000000000000000">
+     <BidTransformation idRef="148" quantity="1" />
+  </AtomicBid>
+
+ </BidsCombination>
+
+ <BidsCombination agentName="agent99" type="XOR">
+
+  <AtomicBid price="23.2490652832427393548186955740675330162048339843750000000000000000000000000000000000000000000000000000">
+     <BidTransformation idRef="149" quantity="1" />
+  </AtomicBid>
+
+ </BidsCombination>
+
+ <BidsCombination agentName="agent100" type="XOR">
+
+  <AtomicBid price="-78.9825668403795049243854009546339511871337890625000000000000000000000000000000000000000000000000000000">
+     <BidTransformation idRef="150" quantity="1" />
+  </AtomicBid>
+
+ </BidsCombination>
+
+ <BidsCombination agentName="agent101" type="XOR">
+
+  <AtomicBid price="33.4973796252944353568636870477348566055297851562500000000000000000000000000000000000000000000000000000">
+     <BidTransformation idRef="151" quantity="1" />
+  </AtomicBid>
+
+ </BidsCombination>
+
+ <BidsCombination agentName="agent102" type="XOR">
+
+  <AtomicBid price="5.5341070440345339065402185951825231313705444335937500000000000000000000000000000000000000000000000000">
+     <BidTransformation idRef="152" quantity="1" />
+  </AtomicBid>
+
+ </BidsCombination>
+
+ <BidsCombination agentName="agent103" type="XOR">
+
+  <AtomicBid price="1.7497461364843092113119382702279835939407348632812500000000000000000000000000000000000000000000000000">
+     <BidTransformation idRef="153" quantity="1" />
+  </AtomicBid>
+
+ </BidsCombination>
+
+ <BidsCombination agentName="agent104" type="XOR">
+
+  <AtomicBid price="32.3457978177748941561731044203042984008789062500000000000000000000000000000000000000000000000000000000">
+     <BidTransformation idRef="154" quantity="1" />
+  </AtomicBid>
+
+ </BidsCombination>
+
+ <BidsCombination agentName="agent105" type="XOR">
+
+  <AtomicBid price="51.4275635093043774759280495345592498779296875000000000000000000000000000000000000000000000000000000000">
+     <BidTransformation idRef="155" quantity="1" />
+  </AtomicBid>
+
+ </BidsCombination>
+
+ <BidsCombination agentName="agent106" type="XOR">
+
+  <AtomicBid price="47.7154952095801903055871662218123674392700195312500000000000000000000000000000000000000000000000000000">
+     <BidTransformation idRef="156" quantity="1" />
+  </AtomicBid>
+
+ </BidsCombination>
+
+ <BidsCombination agentName="agent107" type="XOR">
+
+  <AtomicBid price="1.9919984587799559605514332361053675413131713867187500000000000000000000000000000000000000000000000000">
+     <BidTransformation idRef="157" quantity="1" />
+  </AtomicBid>
+
+ </BidsCombination>
+
+ <BidsCombination agentName="agent108" type="XOR">
+
+  <AtomicBid price="55.4741300707265025948800030164420604705810546875000000000000000000000000000000000000000000000000000000">
+     <BidTransformation idRef="158" quantity="1" />
+  </AtomicBid>
+
+ </BidsCombination>
+
+ <BidsCombination agentName="agent109" type="XOR">
+
+  <AtomicBid price="93.7590442191497288604296045377850532531738281250000000000000000000000000000000000000000000000000000000">
+     <BidTransformation idRef="159" quantity="1" />
+  </AtomicBid>
+
+ </BidsCombination>
+
+ <BidsCombination agentName="agent110" type="XOR">
+
+  <AtomicBid price="29.1291813890886253091139224125072360038757324218750000000000000000000000000000000000000000000000000000">
+     <BidTransformation idRef="160" quantity="1" />
+  </AtomicBid>
+
+ </BidsCombination>
+
+ <BidsCombination agentName="agent111" type="XOR">
+
+  <AtomicBid price="57.7057822486837181941154995001852512359619140625000000000000000000000000000000000000000000000000000000">
+     <BidTransformation idRef="161" quantity="1" />
+  </AtomicBid>
+
+ </BidsCombination>
+
+ <BidsCombination agentName="agent112" type="XOR">
+
+  <AtomicBid price="9.4518610390453705605295908753760159015655517578125000000000000000000000000000000000000000000000000000">
+     <BidTransformation idRef="162" quantity="1" />
+  </AtomicBid>
+
+ </BidsCombination>
+
+ <BidsCombination agentName="agent113" type="XOR">
+
+  <AtomicBid price="9.0615691481225226766582636628299951553344726562500000000000000000000000000000000000000000000000000000">
+     <BidTransformation idRef="163" quantity="1" />
+  </AtomicBid>
+
+ </BidsCombination>
+
+ <BidsCombination agentName="agent114" type="XOR">
+
+  <AtomicBid price="42.6136638609582405479159206151962280273437500000000000000000000000000000000000000000000000000000000000">
+     <BidTransformation idRef="164" quantity="1" />
+  </AtomicBid>
+
+ </BidsCombination>
+
+ <BidsCombination agentName="agent115" type="XOR">
+
+  <AtomicBid price="7.2972180518774276691829072660766541957855224609375000000000000000000000000000000000000000000000000000">
+     <BidTransformation idRef="165" quantity="1" />
+  </AtomicBid>
+
+ </BidsCombination>
+
+ <BidsCombination agentName="agent116" type="XOR">
+
+  <AtomicBid price="85.8069503653169789458843297325074672698974609375000000000000000000000000000000000000000000000000000000">
+     <BidTransformation idRef="166" quantity="1" />
+  </AtomicBid>
+
+ </BidsCombination>
+
+ <BidsCombination agentName="agent117" type="XOR">
+
+  <AtomicBid price="85.8469749278624192356801358982920646667480468750000000000000000000000000000000000000000000000000000000">
+     <BidTransformation idRef="167" quantity="1" />
+  </AtomicBid>
+
+ </BidsCombination>
+
+ <BidsCombination agentName="agent118" type="XOR">
+
+  <AtomicBid price="67.1454624407005269404180580750107765197753906250000000000000000000000000000000000000000000000000000000">
+     <BidTransformation idRef="168" quantity="1" />
+  </AtomicBid>
+
+ </BidsCombination>
+
+ <BidsCombination agentName="agent119" type="XOR">
+
+  <AtomicBid price="24.0370379871397332749438646715134382247924804687500000000000000000000000000000000000000000000000000000">
+     <BidTransformation idRef="169" quantity="1" />
+  </AtomicBid>
+
+ </BidsCombination>
+
+ <BidsCombination agentName="agent120" type="XOR">
+
+  <AtomicBid price="33.7597713571177422409164137206971645355224609375000000000000000000000000000000000000000000000000000000">
+     <BidTransformation idRef="170" quantity="1" />
+  </AtomicBid>
+
+ </BidsCombination>
+
+ <BidsCombination agentName="agent121" type="XOR">
+
+  <AtomicBid price="31.9538508841595927378875785507261753082275390625000000000000000000000000000000000000000000000000000000">
+     <BidTransformation idRef="171" quantity="1" />
+  </AtomicBid>
+
+ </BidsCombination>
+
+ <BidsCombination agentName="agent122" type="XOR">
+
+  <AtomicBid price="47.1783800527395769108807144220918416976928710937500000000000000000000000000000000000000000000000000000">
+     <BidTransformation idRef="172" quantity="1" />
+  </AtomicBid>
+
+ </BidsCombination>
+
+ <BidsCombination agentName="agent123" type="XOR">
+
+  <AtomicBid price="24.0365551295976338508353364886716008186340332031250000000000000000000000000000000000000000000000000000">
+     <BidTransformation idRef="173" quantity="1" />
+  </AtomicBid>
+
+ </BidsCombination>
+
+ <BidsCombination agentName="agent124" type="XOR">
+
+  <AtomicBid price="34.8945180932729783762624720111489295959472656250000000000000000000000000000000000000000000000000000000">
+     <BidTransformation idRef="174" quantity="1" />
+  </AtomicBid>
+
+ </BidsCombination>
+
+ <BidsCombination agentName="agent125" type="XOR">
+
+  <AtomicBid price="69.9603891928567378499792539514601230621337890625000000000000000000000000000000000000000000000000000000">
+     <BidTransformation idRef="175" quantity="1" />
+  </AtomicBid>
+
+ </BidsCombination>
+
+ <BidsCombination agentName="agent126" type="XOR">
+
+  <AtomicBid price="26.6045903903779219490388641133904457092285156250000000000000000000000000000000000000000000000000000000">
+     <BidTransformation idRef="176" quantity="1" />
+  </AtomicBid>
+
+ </BidsCombination>
+
+ <BidsCombination agentName="agent127" type="XOR">
+
+  <AtomicBid price="27.1136764145681254944975080434232950210571289062500000000000000000000000000000000000000000000000000000">
+     <BidTransformation idRef="177" quantity="1" />
+  </AtomicBid>
+
+ </BidsCombination>
+
+ <BidsCombination agentName="agent128" type="XOR">
+
+  <AtomicBid price="22.7635529918247101477390970103442668914794921875000000000000000000000000000000000000000000000000000000">
+     <BidTransformation idRef="178" quantity="1" />
+  </AtomicBid>
+
+ </BidsCombination>
+
+ <BidsCombination agentName="agent129" type="XOR">
+
+  <AtomicBid price="65.1018724581889074443097342737019062042236328125000000000000000000000000000000000000000000000000000000">
+     <BidTransformation idRef="179" quantity="1" />
+  </AtomicBid>
+
+ </BidsCombination>
+
+ <BidsCombination agentName="agent130" type="XOR">
+
+  <AtomicBid price="75.6757854908087210787925869226455688476562500000000000000000000000000000000000000000000000000000000000">
+     <BidTransformation idRef="180" quantity="1" />
+  </AtomicBid>
+
+ </BidsCombination>
+
+ <BidsCombination agentName="agent131" type="XOR">
+
+  <AtomicBid price="66.4100821226991797630034852772951126098632812500000000000000000000000000000000000000000000000000000000">
+     <BidTransformation idRef="181" quantity="1" />
+  </AtomicBid>
+
+ </BidsCombination>
+
+ <BidsCombination agentName="agent132" type="XOR">
+
+  <AtomicBid price="76.2867401306858141651900950819253921508789062500000000000000000000000000000000000000000000000000000000">
+     <BidTransformation idRef="182" quantity="1" />
+  </AtomicBid>
+
+ </BidsCombination>
+
+ <BidsCombination agentName="agent133" type="XOR">
+
+  <AtomicBid price="12.3529425222165709641330977319739758968353271484375000000000000000000000000000000000000000000000000000">
+     <BidTransformation idRef="183" quantity="1" />
+  </AtomicBid>
+
+ </BidsCombination>
+
+ <BidsCombination agentName="agent134" type="XOR">
+
+  <AtomicBid price="30.8766986070213675930062890984117984771728515625000000000000000000000000000000000000000000000000000000">
+     <BidTransformation idRef="184" quantity="1" />
+  </AtomicBid>
+
+ </BidsCombination>
+
+ <BidsCombination agentName="agent135" type="XOR">
+
+  <AtomicBid price="32.6007575446529429541442368645220994949340820312500000000000000000000000000000000000000000000000000000">
+     <BidTransformation idRef="185" quantity="1" />
+  </AtomicBid>
+
+ </BidsCombination>
+
+ <BidsCombination agentName="agent136" type="XOR">
+
+  <AtomicBid price="75.8673088957935988219105638563632965087890625000000000000000000000000000000000000000000000000000000000">
+     <BidTransformation idRef="186" quantity="1" />
+  </AtomicBid>
+
+ </BidsCombination>
+
+ <BidsCombination agentName="agent137" type="XOR">
+
+  <AtomicBid price="19.3883523899717005178899853490293025970458984375000000000000000000000000000000000000000000000000000000">
+     <BidTransformation idRef="187" quantity="1" />
+  </AtomicBid>
+
+ </BidsCombination>
+
+ <BidsCombination agentName="agent138" type="XOR">
+
+  <AtomicBid price="46.7397149099429611851519439369440078735351562500000000000000000000000000000000000000000000000000000000">
+     <BidTransformation idRef="188" quantity="1" />
+  </AtomicBid>
+
+ </BidsCombination>
+
+ <BidsCombination agentName="agent139" type="XOR">
+
+  <AtomicBid price="18.5971265013523172626719315303489565849304199218750000000000000000000000000000000000000000000000000000">
+     <BidTransformation idRef="189" quantity="1" />
+  </AtomicBid>
+
+ </BidsCombination>
+
+ <BidsCombination agentName="agent140" type="XOR">
+
+  <AtomicBid price="8.4975643094848560821219507488422095775604248046875000000000000000000000000000000000000000000000000000">
+     <BidTransformation idRef="190" quantity="1" />
+  </AtomicBid>
+
+ </BidsCombination>
+
+ <BidsCombination agentName="agent141" type="XOR">
+
+  <AtomicBid price="86.2633318602270122710251598618924617767333984375000000000000000000000000000000000000000000000000000000">
+     <BidTransformation idRef="191" quantity="1" />
+  </AtomicBid>
+
+ </BidsCombination>
+
+ <BidsCombination agentName="agent142" type="XOR">
+
+  <AtomicBid price="58.0040199410740200391956022940576076507568359375000000000000000000000000000000000000000000000000000000">
+     <BidTransformation idRef="192" quantity="1" />
+  </AtomicBid>
+
+ </BidsCombination>
+
+ <BidsCombination agentName="agent143" type="XOR">
+
+  <AtomicBid price="36.1422038894868720149133878294378519058227539062500000000000000000000000000000000000000000000000000000">
+     <BidTransformation idRef="193" quantity="1" />
+  </AtomicBid>
+
+ </BidsCombination>
+
+ <BidsCombination agentName="agent144" type="XOR">
+
+  <AtomicBid price="68.5968590424009931894033798016607761383056640625000000000000000000000000000000000000000000000000000000">
+     <BidTransformation idRef="194" quantity="1" />
+  </AtomicBid>
+
+ </BidsCombination>
+
+ <BidsCombination agentName="agent145" type="XOR">
+
+  <AtomicBid price="31.6791721830021515415864996612071990966796875000000000000000000000000000000000000000000000000000000000">
+     <BidTransformation idRef="195" quantity="1" />
+  </AtomicBid>
+
+ </BidsCombination>
+
+ <BidsCombination agentName="agent146" type="XOR">
+
+  <AtomicBid price="24.3660313837132243008909426862373948097229003906250000000000000000000000000000000000000000000000000000">
+     <BidTransformation idRef="196" quantity="1" />
+  </AtomicBid>
+
+ </BidsCombination>
+
+ <BidsCombination agentName="agent147" type="XOR">
+
+  <AtomicBid price="81.5879880707142604023829335346817970275878906250000000000000000000000000000000000000000000000000000000">
+     <BidTransformation idRef="197" quantity="1" />
+  </AtomicBid>
+
+ </BidsCombination>
+
+ <BidsCombination agentName="agent148" type="XOR">
+
+  <AtomicBid price="29.3476899396362540528571116738021373748779296875000000000000000000000000000000000000000000000000000000">
+     <BidTransformation idRef="198" quantity="1" />
+  </AtomicBid>
+
+ </BidsCombination>
+
+ <BidsCombination agentName="agent149" type="XOR">
+
+  <AtomicBid price="95.2310946356974312720922171138226985931396484375000000000000000000000000000000000000000000000000000000">
+     <BidTransformation idRef="199" quantity="1" />
+  </AtomicBid>
+
+ </BidsCombination>
+
+ <BidsCombination agentName="agent150" type="XOR">
+
+  <AtomicBid price="14.8037892657504208671070955460891127586364746093750000000000000000000000000000000000000000000000000000">
+     <BidTransformation idRef="200" quantity="1" />
+  </AtomicBid>
+
+ </BidsCombination>
+
+ <BidsCombination agentName="agent151" type="XOR">
+
+  <AtomicBid price="-35.1722030432919865461371955461800098419189453125000000000000000000000000000000000000000000000000000000">
+     <BidTransformation idRef="201" quantity="1" />
+  </AtomicBid>
+
+ </BidsCombination>
+
+ <BidsCombination agentName="agent152" type="XOR">
+
+  <AtomicBid price="-6.0271842851004135965808927721809595823287963867187500000000000000000000000000000000000000000000000000">
+     <BidTransformation idRef="202" quantity="1" />
+  </AtomicBid>
+
+ </BidsCombination>
+
+ <BidsCombination agentName="agent153" type="XOR">
+
+  <AtomicBid price="-2.0424947931927164290755172260105609893798828125000000000000000000000000000000000000000000000000000000">
+     <BidTransformation idRef="203" quantity="1" />
+  </AtomicBid>
+
+ </BidsCombination>
+
+ <BidsCombination agentName="agent154" type="XOR">
+
+  <AtomicBid price="-34.0869917846471182087952911388128995895385742187500000000000000000000000000000000000000000000000000000">
+     <BidTransformation idRef="204" quantity="1" />
+  </AtomicBid>
+
+ </BidsCombination>
+
+ <BidsCombination agentName="agent155" type="XOR">
+
+  <AtomicBid price="-54.3702338852637652166777115780860185623168945312500000000000000000000000000000000000000000000000000000">
+     <BidTransformation idRef="205" quantity="1" />
+  </AtomicBid>
+
+ </BidsCombination>
+
+ <BidsCombination agentName="agent156" type="XOR">
+
+  <AtomicBid price="-50.3076591612770016581634990870952606201171875000000000000000000000000000000000000000000000000000000000">
+     <BidTransformation idRef="206" quantity="1" />
+  </AtomicBid>
+
+ </BidsCombination>
+
+ <BidsCombination agentName="agent157" type="XOR">
+
+  <AtomicBid price="-2.2927834317661703877888612623792141675949096679687500000000000000000000000000000000000000000000000000">
+     <BidTransformation idRef="207" quantity="1" />
+  </AtomicBid>
+
+ </BidsCombination>
+
+ <BidsCombination agentName="agent158" type="XOR">
+
+  <AtomicBid price="-58.8558165724958399778188322670757770538330078125000000000000000000000000000000000000000000000000000000">
+     <BidTransformation idRef="208" quantity="1" />
+  </AtomicBid>
+
+ </BidsCombination>
+
+ <BidsCombination agentName="agent159" type="XOR">
+
+  <AtomicBid price="-98.2687934595648613367302459664642810821533203125000000000000000000000000000000000000000000000000000000">
+     <BidTransformation idRef="209" quantity="1" />
+  </AtomicBid>
+
+ </BidsCombination>
+
+ <BidsCombination agentName="agent160" type="XOR">
+
+  <AtomicBid price="-30.7407185280440380381605791626498103141784667968750000000000000000000000000000000000000000000000000000">
+     <BidTransformation idRef="210" quantity="1" />
+  </AtomicBid>
+
+ </BidsCombination>
+
+ <BidsCombination agentName="agent161" type="XOR">
+
+  <AtomicBid price="-61.2932070299200688623386668041348457336425781250000000000000000000000000000000000000000000000000000000">
+     <BidTransformation idRef="211" quantity="1" />
+  </AtomicBid>
+
+ </BidsCombination>
+
+ <BidsCombination agentName="agent162" type="XOR">
+
+  <AtomicBid price="-10.1100449716917033526897284900769591331481933593750000000000000000000000000000000000000000000000000000">
+     <BidTransformation idRef="212" quantity="1" />
+  </AtomicBid>
+
+ </BidsCombination>
+
+ <BidsCombination agentName="agent163" type="XOR">
+
+  <AtomicBid price="-9.8080975877529681383748538792133331298828125000000000000000000000000000000000000000000000000000000000">
+     <BidTransformation idRef="213" quantity="1" />
+  </AtomicBid>
+
+ </BidsCombination>
+
+ <BidsCombination agentName="agent164" type="XOR">
+
+  <AtomicBid price="-44.6999547638137144645043008495122194290161132812500000000000000000000000000000000000000000000000000000">
+     <BidTransformation idRef="214" quantity="1" />
+  </AtomicBid>
+
+ </BidsCombination>
+
+ <BidsCombination agentName="agent165" type="XOR">
+
+  <AtomicBid price="-7.9625987755673035550785243685822933912277221679687500000000000000000000000000000000000000000000000000">
+     <BidTransformation idRef="215" quantity="1" />
+  </AtomicBid>
+
+ </BidsCombination>
+
+ <BidsCombination agentName="agent166" type="XOR">
+
+  <AtomicBid price="-90.5971962029656197046278975903987884521484375000000000000000000000000000000000000000000000000000000000">
+     <BidTransformation idRef="216" quantity="1" />
+  </AtomicBid>
+
+ </BidsCombination>
+
+ <BidsCombination agentName="agent167" type="XOR">
+
+  <AtomicBid price="-90.5077345492942555438276031054556369781494140625000000000000000000000000000000000000000000000000000000">
+     <BidTransformation idRef="217" quantity="1" />
+  </AtomicBid>
+
+ </BidsCombination>
+
+ <BidsCombination agentName="agent168" type="XOR">
+
+  <AtomicBid price="-70.2895387753907812111719977110624313354492187500000000000000000000000000000000000000000000000000000000">
+     <BidTransformation idRef="218" quantity="1" />
+  </AtomicBid>
+
+ </BidsCombination>
+
+ <BidsCombination agentName="agent169" type="XOR">
+
+  <AtomicBid price="-25.3160740062014397722123248968273401260375976562500000000000000000000000000000000000000000000000000000">
+     <BidTransformation idRef="219" quantity="1" />
+  </AtomicBid>
+
+ </BidsCombination>
+
+ <BidsCombination agentName="agent170" type="XOR">
+
+  <AtomicBid price="-35.8070635967187271830880490597337484359741210937500000000000000000000000000000000000000000000000000000">
+     <BidTransformation idRef="220" quantity="1" />
+  </AtomicBid>
+
+ </BidsCombination>
+
+ <BidsCombination agentName="agent171" type="XOR">
+
+  <AtomicBid price="-33.5756325392852019717793154995888471603393554687500000000000000000000000000000000000000000000000000000">
+     <BidTransformation idRef="221" quantity="1" />
+  </AtomicBid>
+
+ </BidsCombination>
+
+ <BidsCombination agentName="agent172" type="XOR">
+
+  <AtomicBid price="-49.9016743354703180557407904416322708129882812500000000000000000000000000000000000000000000000000000000">
+     <BidTransformation idRef="222" quantity="1" />
+  </AtomicBid>
+
+ </BidsCombination>
+
+ <BidsCombination agentName="agent173" type="XOR">
+
+  <AtomicBid price="-25.4533736571322641850656509632244706153869628906250000000000000000000000000000000000000000000000000000">
+     <BidTransformation idRef="223" quantity="1" />
+  </AtomicBid>
+
+ </BidsCombination>
+
+ <BidsCombination agentName="agent174" type="XOR">
+
+  <AtomicBid price="-37.1430037273916155982078635133802890777587890625000000000000000000000000000000000000000000000000000000">
+     <BidTransformation idRef="224" quantity="1" />
+  </AtomicBid>
+
+ </BidsCombination>
+
+ <BidsCombination agentName="agent175" type="XOR">
+
+  <AtomicBid price="-73.5978715223681945190037367865443229675292968750000000000000000000000000000000000000000000000000000000">
+     <BidTransformation idRef="225" quantity="1" />
+  </AtomicBid>
+
+ </BidsCombination>
+
+ <BidsCombination agentName="agent176" type="XOR">
+
+  <AtomicBid price="-28.3949100800208213968289783224463462829589843750000000000000000000000000000000000000000000000000000000">
+     <BidTransformation idRef="226" quantity="1" />
+  </AtomicBid>
+
+ </BidsCombination>
+
+ <BidsCombination agentName="agent177" type="XOR">
+
+  <AtomicBid price="-28.5785003526665626338854053756222128868103027343750000000000000000000000000000000000000000000000000000">
+     <BidTransformation idRef="227" quantity="1" />
+  </AtomicBid>
+
+ </BidsCombination>
+
+ <BidsCombination agentName="agent178" type="XOR">
+
+  <AtomicBid price="-24.3534584717210940141285391291603446006774902343750000000000000000000000000000000000000000000000000000">
+     <BidTransformation idRef="228" quantity="1" />
+  </AtomicBid>
+
+ </BidsCombination>
+
+ <BidsCombination agentName="agent179" type="XOR">
+
+  <AtomicBid price="-69.2914003403387113166900235228240489959716796875000000000000000000000000000000000000000000000000000000">
+     <BidTransformation idRef="229" quantity="1" />
+  </AtomicBid>
+
+ </BidsCombination>
+
+ <BidsCombination agentName="agent180" type="XOR">
+
+  <AtomicBid price="-80.3882423758036992467168602161109447479248046875000000000000000000000000000000000000000000000000000000">
+     <BidTransformation idRef="230" quantity="1" />
+  </AtomicBid>
+
+ </BidsCombination>
+
+ <BidsCombination agentName="agent181" type="XOR">
+
+  <AtomicBid price="-70.4376203252986385905387578532099723815917968750000000000000000000000000000000000000000000000000000000">
+     <BidTransformation idRef="231" quantity="1" />
+  </AtomicBid>
+
+ </BidsCombination>
+
+ <BidsCombination agentName="agent182" type="XOR">
+
+  <AtomicBid price="-80.2027385566381099124555476009845733642578125000000000000000000000000000000000000000000000000000000000">
+     <BidTransformation idRef="232" quantity="1" />
+  </AtomicBid>
+
+ </BidsCombination>
+
+ <BidsCombination agentName="agent183" type="XOR">
+
+  <AtomicBid price="-13.1680836980371189781635621329769492149353027343750000000000000000000000000000000000000000000000000000">
+     <BidTransformation idRef="233" quantity="1" />
+  </AtomicBid>
+
+ </BidsCombination>
+
+ <BidsCombination agentName="agent184" type="XOR">
+
+  <AtomicBid price="-32.9582764467703057675862510222941637039184570312500000000000000000000000000000000000000000000000000000">
+     <BidTransformation idRef="234" quantity="1" />
+  </AtomicBid>
+
+ </BidsCombination>
+
+ <BidsCombination agentName="agent185" type="XOR">
+
+  <AtomicBid price="-34.6609945022847298901069734711199998855590820312500000000000000000000000000000000000000000000000000000">
+     <BidTransformation idRef="235" quantity="1" />
+  </AtomicBid>
+
+ </BidsCombination>
+
+ <BidsCombination agentName="agent186" type="XOR">
+
+  <AtomicBid price="-79.8806243582649955214947112835943698883056640625000000000000000000000000000000000000000000000000000000">
+     <BidTransformation idRef="236" quantity="1" />
+  </AtomicBid>
+
+ </BidsCombination>
+
+ <BidsCombination agentName="agent187" type="XOR">
+
+  <AtomicBid price="-20.3503844123111861108554876409471035003662109375000000000000000000000000000000000000000000000000000000">
+     <BidTransformation idRef="237" quantity="1" />
+  </AtomicBid>
+
+ </BidsCombination>
+
+ <BidsCombination agentName="agent188" type="XOR">
+
+  <AtomicBid price="-49.1717391966294599114917218685150146484375000000000000000000000000000000000000000000000000000000000000">
+     <BidTransformation idRef="238" quantity="1" />
+  </AtomicBid>
+
+ </BidsCombination>
+
+ <BidsCombination agentName="agent189" type="XOR">
+
+  <AtomicBid price="-19.6679847999924994894627161556854844093322753906250000000000000000000000000000000000000000000000000000">
+     <BidTransformation idRef="239" quantity="1" />
+  </AtomicBid>
+
+ </BidsCombination>
+
+ <BidsCombination agentName="agent190" type="XOR">
+
+  <AtomicBid price="-9.1771135953719440436771037639118731021881103515625000000000000000000000000000000000000000000000000000">
+     <BidTransformation idRef="240" quantity="1" />
+  </AtomicBid>
+
+ </BidsCombination>
+
+ <BidsCombination agentName="agent191" type="XOR">
+
+  <AtomicBid price="-91.1749242730191866712630144320428371429443359375000000000000000000000000000000000000000000000000000000">
+     <BidTransformation idRef="241" quantity="1" />
+  </AtomicBid>
+
+ </BidsCombination>
+
+ <BidsCombination agentName="agent192" type="XOR">
+
+  <AtomicBid price="-61.5993964975125578575898543931543827056884765625000000000000000000000000000000000000000000000000000000">
+     <BidTransformation idRef="242" quantity="1" />
+  </AtomicBid>
+
+ </BidsCombination>
+
+ <BidsCombination agentName="agent193" type="XOR">
+
+  <AtomicBid price="-37.9551405053338442030508304014801979064941406250000000000000000000000000000000000000000000000000000000">
+     <BidTransformation idRef="243" quantity="1" />
+  </AtomicBid>
+
+ </BidsCombination>
+
+ <BidsCombination agentName="agent194" type="XOR">
+
+  <AtomicBid price="-72.5627310082500684984552208334207534790039062500000000000000000000000000000000000000000000000000000000">
+     <BidTransformation idRef="244" quantity="1" />
+  </AtomicBid>
+
+ </BidsCombination>
+
+ <BidsCombination agentName="agent195" type="XOR">
+
+  <AtomicBid price="-33.6224901187557421167184656951576471328735351562500000000000000000000000000000000000000000000000000000">
+     <BidTransformation idRef="245" quantity="1" />
+  </AtomicBid>
+
+ </BidsCombination>
+
+ <BidsCombination agentName="agent196" type="XOR">
+
+  <AtomicBid price="-25.8252712410038256507505138870328664779663085937500000000000000000000000000000000000000000000000000000">
+     <BidTransformation idRef="246" quantity="1" />
+  </AtomicBid>
+
+ </BidsCombination>
+
+ <BidsCombination agentName="agent197" type="XOR">
+
+  <AtomicBid price="-85.0750118703813029696902958676218986511230468750000000000000000000000000000000000000000000000000000000">
+     <BidTransformation idRef="247" quantity="1" />
+  </AtomicBid>
+
+ </BidsCombination>
+
+ <BidsCombination agentName="agent198" type="XOR">
+
+  <AtomicBid price="-31.4365818300401898000018263701349496841430664062500000000000000000000000000000000000000000000000000000">
+     <BidTransformation idRef="248" quantity="1" />
+  </AtomicBid>
+
+ </BidsCombination>
+
+ <BidsCombination agentName="agent199" type="XOR">
+
+  <AtomicBid price="-101.1819484317276902629600954242050647735595703125000000000000000000000000000000000000000000000000000000">
+     <BidTransformation idRef="249" quantity="1" />
+  </AtomicBid>
+
+ </BidsCombination>
+
+ <BidsCombination agentName="agent200" type="XOR">
+
+  <AtomicBid price="-15.7492935107352227674937239498831331729888916015625000000000000000000000000000000000000000000000000000">
+     <BidTransformation idRef="250" quantity="1" />
+  </AtomicBid>
+
+ </BidsCombination>
+
+
+
+</AuctionData>
